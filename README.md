@@ -1,8 +1,6 @@
-# Reporte-ventas-powerbi
-Sales performance dashboard built with Power BI — retail data across Argentine cities (2018–2020)
 # Sales Performance Dashboard — Power BI
 
-Dashboard de análisis de ventas retail para el mercado argentino,
+Dashboard de análisis de ventas retail para el mercado argentino (2018-2019),
 desarrollado como proyecto final del curso de Power BI.
 
 ## Descripción
