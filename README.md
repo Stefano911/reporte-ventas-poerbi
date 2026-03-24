@@ -1,4 +1,4 @@
-# reporte-ventas-powerbi
+# Reporte-ventas-powerbi
 Sales performance dashboard built with Power BI — retail data across Argentine cities (2018–2020)
 # Sales Performance Dashboard — Power BI
 
